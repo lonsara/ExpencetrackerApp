@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950008936120",
+    "project_id": "loginapp-5b857",
+    "storage_bucket": "loginapp-5b857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950008936120:android:f6afec6e7b58c456ba664d",
+        "android_client_info": {
+          "package_name": "com.example.expencetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBLi7LGcwjGW_KYZgsfwvVCgzg9x77TZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
